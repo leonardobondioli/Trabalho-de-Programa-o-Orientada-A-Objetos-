@@ -1,4 +1,11 @@
 # Trabalho-de-Programa-o-Orientada-A-Objetos-
+Obs: É necessario possuir Eclipse/NetBeans para poder executar o código do jogo
+Primeiro passo: Faça o Download do arquivo .zip
+Segundo passo: Descompacte em uma pasta qualquer  
+Terceiro passo: Abra a pasta src
+Quarto passo: Botar todas as classes .java separadas dentro de um "Package" em um projeto dentro da sua workspace
+Quinto passo: Aperte o botão para compilar e executar o jogo!
+
 Manual para o pequeno jogo:
 
 1- Aperte o botão Play no centro da tela para iniciar o jogo
